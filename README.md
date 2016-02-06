@@ -8,11 +8,6 @@ My *current* personal preferences for module development.
 * Dump the .git directory
 * Re-initialize git
 
-Or just run this command that does the same thing:
-
-`git clone --depth=1 --branch=master git@github.com:desmondmorris/node-boilerplate.git new-project && rm -rf !$/.git && git init`
-
-
 ## License
 
 The MIT License (MIT)
